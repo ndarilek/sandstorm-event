@@ -1,0 +1,23 @@
+{
+  "name": "Event",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^0.4.22",
+    "apollo-server": "^0.3.3",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^4.0.0-alpha.5",
+    "bootstrap-vue": "^0.3.1",
+    "express": "^4.14.0",
+    "graphql": "^0.7.0",
+    "graphql-tools": "^0.7.2",
+    "jquery": "^3.1.0",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.15.0",
+    "redux": "^3.6.0",
+    "vue": "^2.0.3",
+    "vue-apollo": "^1.0.0-rc.1"
+  }
+}
